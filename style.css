@@ -1,0 +1,11 @@
+.main{
+  height:200px;
+  width:auto;
+  display: flex;
+}
+.colour1{
+  flex: 1 2 150px;
+}
+.main .colour3{
+  flex: 0 1 100px;
+}
